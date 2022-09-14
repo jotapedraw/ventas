@@ -1,0 +1,8 @@
+Distribucion pagina
+
+seccion Ventas 
+> panel caja > agregar datos cliente
+> subseccion informes > ingresos , cotizaciones, detalles ventas por mes, detalles nota de credito,
+repuestos mas vendidos y menos vendidos, estimado total de ganancia (suma ganancia y precio bruto),
+
+*hacer select con opciones y boton para arrojar resultados
